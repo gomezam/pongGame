@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\player.o
+./release\game.o
+./release\movement.o
+./release\ball.o
+./release\qrc_data.o
+./release\moc_player.o
+./release\moc_game.o
+./release\moc_movement.o
+./release\moc_ball.o
+);

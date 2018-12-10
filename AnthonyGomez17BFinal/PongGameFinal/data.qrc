@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Audio">
+        <file>Tetris.mp3</file>
+        <file>Dual.mp3</file>
+        <file>lasrhit1.mp3</file>
+        <file>lasrhit2.mp3</file>
+        <file>lasrhit4.mp3</file>
+        <file>ffviiVictory.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>pongPaddle1.png</file>
+        <file>pongPaddle2.png</file>
+        <file>pongBall.png</file>
+        <file>newpongScreen.jpg</file>
+        <file>pongScreen2.jpg</file>
+        <file>tetBallmaybe.png</file>
+        <file>tetPad1.png</file>
+        <file>tetPad2.png</file>
+        <file>tetBall3.png</file>
+        <file>winScreen.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
